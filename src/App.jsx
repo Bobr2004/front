@@ -10,6 +10,7 @@ import {
 
 import {RoomList} from "./RoomList.jsx";
 import {VideoRoom} from "./VideoRoom.jsx";
+import "./global.css"
 
 const App = () => {
   return (
